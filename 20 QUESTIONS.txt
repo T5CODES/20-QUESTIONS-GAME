@@ -1,2 +1,2 @@
 Is it an animal? yes
-Does the animal have a fur?
+Does the animal have a fur? no
