@@ -2,4 +2,4 @@ Is it an animal? yes
 Does the animal have a fur? no
 Is it a reptile? yes
 Is it long? yes
-Is it a snake?
+Is it a snake? yes
